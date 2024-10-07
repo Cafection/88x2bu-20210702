@@ -1,5 +1,7 @@
 ## 88x2bu ( 88x2bu.ko ) :rocket:
 
+> This repo aims to provide a release tag for a build system. It is unmaintained, and you should refer to the source fork: https://github.com/morrownr/88x2bu-20210702
+
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets
 
 - v5.13.1 (Realtek) (20210702) plus updates from the Linux community
